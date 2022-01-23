@@ -1,13 +1,13 @@
 # Counter
 
-Fresh Page
+## Fresh Page
 ![](screenshots/ss1.png)
 
-Increament
+## Increament
 ![](screenshots/ss2.png)
 
-Decrement
+## Decrement
 ![](screenshots/ss3.png)
 
-After Reset
+## After Reset
 ![](screenshots/reset.png)
